@@ -121,3 +121,9 @@
 .switch input:checked ~ .slider .cloud {
   opacity: 1;
 }
+.banner{
+    width: 80%;
+    height: 400px;
+    margin: 20px auto;
+    background: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA2L3JtNjY2LWtuLWQtMDAxY2EuanBn.jpg) no-repeat center/cover;
+}
